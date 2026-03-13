@@ -1,4 +1,4 @@
-## Hello World, I'm [Aakash Sinha!](https://Syafar44.github.io/portfolio/#/) 
+## Hello World, I'm [Syafar!](https://Syafar44.github.io/portfolio/#/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
